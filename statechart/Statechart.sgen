@@ -1,0 +1,15 @@
+GeneratorModel for create::c {
+
+	const PROJECT : string = "Lab2_DemoFSM"
+
+	const FOLDER : string = "src-gen"
+
+	statechart Statechart {
+
+		feature Outlet {
+			targetProject = PROJECT
+			targetFolder = FOLDER
+			libraryTargetFolder = "src"
+		}
+	}
+}
