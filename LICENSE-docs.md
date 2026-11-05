@@ -17,7 +17,7 @@ appropriate credit, provide a link to the licence, and indicate if changes were 
 
 Suggested attribution:
 
-> Ž. Nakutis, V. Daunoras, *Battery Lifetime Prediction Laboratory*,
+> Ž. Nakutis, V. Daunoras, M. Saunoris, *Battery Lifetime Prediction Laboratory*,
 > Kaunas University of Technology,
 > https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab, licensed under CC BY 4.0.
 

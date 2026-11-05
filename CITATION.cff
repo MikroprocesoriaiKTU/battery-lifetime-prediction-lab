@@ -15,11 +15,12 @@ authors:
   - family-names: Daunoras
     given-names: Vytautas
     affiliation: Kaunas University of Technology
+  - family-names: Saunoris
+    given-names: Marius
+    affiliation: Kaunas University of Technology
 repository-code: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
 url: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
-license:
-  - MIT
-  - CC-BY-4.0
+license: MIT
 keywords:
   - embedded systems
   - power profiling
