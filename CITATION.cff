@@ -18,6 +18,9 @@ authors:
   - family-names: Saunoris
     given-names: Marius
     affiliation: Kaunas University of Technology
+version: 1.0.0
+date-released: 2026-11-05
+doi: 10.5281/zenodo.23983697
 repository-code: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
 url: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
 license: MIT

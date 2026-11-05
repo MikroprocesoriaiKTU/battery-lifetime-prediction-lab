@@ -1,10 +1,14 @@
 ﻿# Battery Lifetime Prediction Laboratory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23983697.svg)](https://doi.org/10.5281/zenodo.23983697)
+
 Teaching materials accompanying the paper *Teaching Embedded Systems Power Profiling through Battery Lifetime Prediction*.
 
 Laboratory assignment developed for the course *Embedded Systems* (T170B417), Faculty of Electrical and Electronics Engineering, Kaunas University of Technology, Lithuania.
 
 Repository: https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23983697
 
 ## Contents
 
