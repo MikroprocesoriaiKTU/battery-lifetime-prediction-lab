@@ -5,19 +5,22 @@ title: "Battery Lifetime Prediction Laboratory"
 abstract: >-
   Teaching materials for an STM32 laboratory on embedded systems power
   profiling and battery lifetime prediction: firmware template, itemis CREATE
-  statechart, add-on board schematic, bill of materials, assembly guide and
-  laboratory handout. Developed for the course Embedded Systems at Kaunas
+  statechart, add-on board schematic, bill of materials, assembly guide,
+  laboratory handout and post-work questionnaire. Developed for the course Embedded Systems at Kaunas
   University of Technology.
 authors:
   - family-names: Nakutis
     given-names: Žilvinas
     affiliation: Kaunas University of Technology
+    orcid: "https://orcid.org/0000-0002-1411-1161"
   - family-names: Daunoras
     given-names: Vytautas
     affiliation: Kaunas University of Technology
+    orcid: "https://orcid.org/0000-0001-8586-4710"
   - family-names: Saunoris
     given-names: Marius
     affiliation: Kaunas University of Technology
+    orcid: "https://orcid.org/0000-0002-5218-5305"
 version: 1.0.0
 date-released: 2026-11-05
 doi: 10.5281/zenodo.23983697
