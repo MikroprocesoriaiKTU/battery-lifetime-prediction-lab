@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these teaching materials, please cite them as below."
+type: software
+title: "Battery Lifetime Prediction Laboratory"
+abstract: >-
+  Teaching materials for an STM32 laboratory on embedded systems power
+  profiling and battery lifetime prediction: firmware template, itemis CREATE
+  statechart, add-on board schematic, bill of materials, assembly guide and
+  laboratory handout. Developed for the course Embedded Systems at Kaunas
+  University of Technology.
+authors:
+  - family-names: Nakutis
+    given-names: Žilvinas
+    affiliation: Kaunas University of Technology
+  - family-names: Daunoras
+    given-names: Vytautas
+    affiliation: Kaunas University of Technology
+repository-code: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
+url: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - embedded systems
+  - power profiling
+  - battery lifetime
+  - low-power
+  - STM32
+  - engineering education

@@ -1,0 +1,27 @@
+﻿# Keil MDK build output and generated files
+firmware/stm32l433/MDK-ARM/Lab2_DemoFirmware/
+firmware/stm32l433/MDK-ARM/RTE/
+firmware/stm32l433/MDK-ARM/DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.dep
+*.lnp
+*.sct
+*.bak
+
+# Keil per-user files (window layout); the .uvoptx with the debugger settings is kept
+*.uvguix.*
+
+# KiCad per-user, history and backup files
+*.kicad_prl
+.history/
+*-backups/
+fp-info-cache
+_autosave-*
+*.lck
