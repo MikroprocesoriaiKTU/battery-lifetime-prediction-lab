@@ -1,0 +1,9 @@
+Board variant,IC2 (I2C3),R5 and R6,R7 and R8 (analog sensors)
+1,MAX7500MSA,10 kOhm,NTC thermistor 10 kOhm
+2,MAX7500MSA,10 kOhm,NTC thermistor 10 kOhm
+3,MAX7500MSA,20 kOhm,Photoresistor 8-20 kOhm
+4,LM75 (LM75AD / LM75BD),20 kOhm,Photoresistor 8-20 kOhm
+5,LM75 (LM75AD / LM75BD),20 kOhm,Photoresistor 8-20 kOhm
+6,LM75 (LM75AD / LM75BD),10 kOhm,NTC thermistor 10 kOhm
+7,BMP180,20 kOhm,Photoresistor 8-20 kOhm
+8,BMP280,20 kOhm,Photoresistor 8-20 kOhm

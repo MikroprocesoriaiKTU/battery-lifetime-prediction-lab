@@ -1,0 +1,6 @@
+Item,Qty,Description,Manufacturer part,Supplier,Supplier link,Notes
+Target board,1,STM32 Nucleo-64 board with STM32L433RCT6P and on-board ST-LINK,STMicroelectronics NUCLEO-L433RC-P,DigiKey,https://www.digikey.com/en/products/detail/stmicroelectronics/NUCLEO-L433RC-P/7380301,Jumpers for measurement: JP4 (nRST) on; all JP5 off
+Power measurement board,1,Supplies the target and measures its current,STMicroelectronics X-NUCLEO-LPM01A,DigiKey,https://www.digikey.com/en/products/detail/stmicroelectronics/X-NUCLEO-LPM01A/7785242,Controlled from STM32CubeMonitor-Power over its own USB port (CN5)
+Add-on board,1,Sensor/display add-on board,See addon_board_bom.csv and board_variants.csv,-,-,One of board variants 1-8
+USB cable,2,USB A to Micro-B cable (Nucleo ST-LINK and power board),Adafruit 592,DigiKey,https://www.digikey.com/en/products/detail/adafruit-industries-llc/592/10669955,
+PC software,1,Keil MDK 5 (Arm Compiler 6); STM32CubeMX with Power Consumption Calculator; itemis CREATE; STM32CubeMonitor-Power,-,Arm / STMicroelectronics / itemis,https://www.keil.arm.com ; https://www.st.com ; https://www.itemis.com,Tested with Arm Compiler 6.16 and 6.24 and STM32CubeMX 6.12.0 (STM32Cube FW_L4 V1.18.2); itemis CREATE and STM32CubeMonitor-Power: latest version; the -O0 build needs a Keil licence without the 32 KB limit
