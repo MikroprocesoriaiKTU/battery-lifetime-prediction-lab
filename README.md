@@ -13,6 +13,7 @@ Archived on Zenodo: https://doi.org/10.5281/zenodo.23983697
 ## Contents
 
 - `docs/Lab_handout_EN.pdf` — laboratory handout (English).
+- `docs/Post-work_questionnaire.pdf` — post-work student questionnaire (items Q1–Q14, as in Appendix A of the paper).
 - `firmware/stm32l433/` — STM32L433 firmware template: CubeMX configuration, Keil MDK project, and the required vendor and library sources.
 - `statechart/` — itemis CREATE statechart model, generator configuration, and generated C sources (open in itemis CREATE with *File → Import → Existing Projects into Workspace*).
 - `hardware/` — schematic, bill of materials with supplier links, board variants, and assembly guide for the sensor/display add-on board. The add-on board is assembled from modules and through-hole components on an Arduino Uno prototype shield; it is not a custom PCB, so there are no PCB layout or Gerber files.
