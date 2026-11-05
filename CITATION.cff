@@ -21,7 +21,7 @@ authors:
     given-names: Marius
     affiliation: Kaunas University of Technology
     orcid: "https://orcid.org/0000-0002-5218-5305"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-05
 doi: 10.5281/zenodo.23983697
 repository-code: "https://github.com/MikroprocesoriaiKTU/battery-lifetime-prediction-lab"
